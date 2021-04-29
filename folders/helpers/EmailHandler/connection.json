@@ -1,0 +1,7 @@
+{
+    "host": "smtp.gmail.com",
+    "username": "20198022@itla.edu.do",
+    "password": "20198022",
+    "port": 587,
+    "from": "Elecciones"
+}
